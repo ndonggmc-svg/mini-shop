@@ -968,7 +968,7 @@ nav a:hover {
   padding: 4rem 1rem;
 }
 
-.contact h2 {
+.contact h2 
   text-align: center;
   font-size: 2.5rem;
   margin-bottom: 2rem;
